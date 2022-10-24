@@ -1,0 +1,11 @@
+{
+  "appid": "appid",
+  "serviceAppid": "serviceAppid",
+  "appType": "service",
+  "proxyURL": "main.php/json/proxy/call?url=",
+  "indexRouteName": "index",
+  "lang": "zh-CN"
+}
+
+
+
